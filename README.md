@@ -1,5 +1,7 @@
 # dinero
 
+完全免费、开源的记账 Web App | Completely free, open-source accounting Web App
+
 ## Project setup
 ```
 npm install
